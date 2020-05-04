@@ -17,3 +17,4 @@ predictplot=function(predicts,observed){
   lines(density(observed), col="blue")
 
 }
+
